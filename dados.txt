@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Ludmila   
+-Profissão: Analista Financeiro
+-Cidade: Cabo Frio  
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: O curso tem sido incrivel!! Um tanto desafiador, por estar iniciando nesse mundo de testes.
+-Feedback sobre a plataforma de estudo da EBAC: Gosto muito da plataforma, facil entendimento, retornos rapidos. 
 
 Obrigado!!!
 
